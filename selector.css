@@ -1,0 +1,25 @@
+#one{
+    color: red;
+}
+#two{
+    color: blueviolet;
+}
+.three{
+    color: brown;
+}
+button{
+    color: black;
+    background-color: brown;
+    width: 50%;
+    height: 50%;
+}
+div{
+    border: 1px solid grey;
+    width: 100%;
+    height: 50%;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
+

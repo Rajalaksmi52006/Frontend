@@ -1,0 +1,16 @@
+#one{
+    background-image: url("./picture/r1.png");
+    padding: 6%;
+    background-repeat: no-repeat;
+
+}
+#two{
+    border: 10px solid transparent;
+    border-image: url(./picture/r3.png) 30% round;
+}
+
+#three{
+    border: 100px solid transparent;
+    border-image: url(./picture/r1.png);
+    background-position: left right top bottom;
+}

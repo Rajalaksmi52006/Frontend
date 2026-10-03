@@ -1,0 +1,31 @@
+h1{
+    color: red;
+}
+div{
+    background-color: aliceblue;
+    border: 1px solid grey;
+}
+#two{
+    border: 1px solid red;
+    border-radius: 3px;
+}
+#three{
+    border: 1px dotted red;
+}
+#four{
+    border: 1px dashed blue;
+}
+#five{
+    border: 1px double green;
+}
+h2{
+    border: 1px hidden ;
+}
+h3{
+    border: 1px none;
+}
+#six{
+    border: 1px solid brown;
+    width: 50%;
+    margin: 50px 50px;
+}

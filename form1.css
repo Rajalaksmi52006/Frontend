@@ -1,0 +1,16 @@
+form{
+    border: 3px dotted red;
+    width: 200px;
+    padding: 50px;
+    margin: 100px;
+    color: red;
+    background-origin: padding-box;
+
+}
+button{
+    width: 100%;
+    color: red;
+    background-color: green;
+    border-color: red;
+
+}
